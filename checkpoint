@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Data Science\\cat_dog_kaggle\\dogsvscats-0.001-9conv-basic.model"
+all_model_checkpoint_paths: "G:\\Data Science\\cat_dog_kaggle\\dogsvscats-0.001-9conv-basic.model"
